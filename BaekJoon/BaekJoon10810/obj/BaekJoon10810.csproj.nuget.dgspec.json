@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\OH SEWON\\Desktop\\Development\\BaekJoon\\BaekJoon\\BaekJoon10810\\BaekJoon10810.csproj": {}
+    "C:\\Users\\OH SEWON\\Desktop\\Development\\BaekJoon\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon10810\\BaekJoon10810.csproj": {}
   },
   "projects": {
-    "C:\\Users\\OH SEWON\\Desktop\\Development\\BaekJoon\\BaekJoon\\BaekJoon10810\\BaekJoon10810.csproj": {
+    "C:\\Users\\OH SEWON\\Desktop\\Development\\BaekJoon\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon10810\\BaekJoon10810.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\OH SEWON\\Desktop\\Development\\BaekJoon\\BaekJoon\\BaekJoon10810\\BaekJoon10810.csproj",
+        "projectUniqueName": "C:\\Users\\OH SEWON\\Desktop\\Development\\BaekJoon\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon10810\\BaekJoon10810.csproj",
         "projectName": "BaekJoon10810",
-        "projectPath": "C:\\Users\\OH SEWON\\Desktop\\Development\\BaekJoon\\BaekJoon\\BaekJoon10810\\BaekJoon10810.csproj",
+        "projectPath": "C:\\Users\\OH SEWON\\Desktop\\Development\\BaekJoon\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon10810\\BaekJoon10810.csproj",
         "packagesPath": "C:\\Users\\OH SEWON\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\OH SEWON\\Desktop\\Development\\BaekJoon\\BaekJoon\\BaekJoon10810\\obj\\",
+        "outputPath": "C:\\Users\\OH SEWON\\Desktop\\Development\\BaekJoon\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon10810\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\OH SEWON\\AppData\\Roaming\\NuGet\\NuGet.Config",

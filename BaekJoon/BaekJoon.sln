@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaekJoon10810", "BaekJoon10
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaekJoon10813", "BaekJoon10813\BaekJoon10813.csproj", "{5E16DF07-8A59-49FE-B205-1C2C1CCDC868}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaekJoon5597", "BaekJoon5597\BaekJoon5597.csproj", "{FF9D4974-2094-431B-9E8E-32A2DB7BAAEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5E16DF07-8A59-49FE-B205-1C2C1CCDC868}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E16DF07-8A59-49FE-B205-1C2C1CCDC868}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E16DF07-8A59-49FE-B205-1C2C1CCDC868}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF9D4974-2094-431B-9E8E-32A2DB7BAAEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF9D4974-2094-431B-9E8E-32A2DB7BAAEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF9D4974-2094-431B-9E8E-32A2DB7BAAEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF9D4974-2094-431B-9E8E-32A2DB7BAAEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
