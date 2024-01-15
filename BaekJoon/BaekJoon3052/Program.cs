@@ -5,17 +5,42 @@ public class Program
 {
     private static void Main(string[] args)
     {
-        int b = 42;
-        int[] remain = new int[10];
+        string[] nm = Console.ReadLine().Split();
 
-        // 계산
-        for(int i = 0; i < 10; i++)
+        int n = int.Parse(nm[0]);
+        int m = int.Parse(nm[1]);
+
+        int[] basket = new int[n];
+        int temp = 0;
+
+        // 바구니에 값 넣기
+        for(int i = 0; i < n; i++)
         {
-            int a = int.Parse(Console.ReadLine());
-            remain[i] = a % b;
+            basket[i] = i+1;
         }
+
+        for (int k = 0; k < m; k++)
+        {
+            string[] ij = Console.ReadLine().Split();
             
-        // 중복 제거
-        Console.WriteLine(remain.Distinct().Count());
+            // 바구니 순서
+            int i = int.Parse(ij[0])-1;
+            int j = int.Parse(ij[1])-1;
+
+            // 문제 조건 1 <= i <= j <= N
+            while(i < j)
+            {
+                // 역순
+                temp = basket[i];
+                basket[i++] = basket[j];
+                basket[j--] = temp;
+            }
+        }
+
+        // 출력
+        for(int i = 0; i < basket.Length; i++)
+        {
+            Console.Write(basket[i] + " ");
+        }
     }
 }
