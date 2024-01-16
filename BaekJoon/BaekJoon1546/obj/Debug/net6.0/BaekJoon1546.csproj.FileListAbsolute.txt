@@ -1,0 +1,14 @@
+C:\Users\OH SEWON\Desktop\Development\BaekJoon\BaekJoonCodeStudy\BaekJoon\BaekJoon1546\bin\Debug\net6.0\BaekJoon1546.exe
+C:\Users\OH SEWON\Desktop\Development\BaekJoon\BaekJoonCodeStudy\BaekJoon\BaekJoon1546\bin\Debug\net6.0\BaekJoon1546.deps.json
+C:\Users\OH SEWON\Desktop\Development\BaekJoon\BaekJoonCodeStudy\BaekJoon\BaekJoon1546\bin\Debug\net6.0\BaekJoon1546.runtimeconfig.json
+C:\Users\OH SEWON\Desktop\Development\BaekJoon\BaekJoonCodeStudy\BaekJoon\BaekJoon1546\bin\Debug\net6.0\BaekJoon1546.dll
+C:\Users\OH SEWON\Desktop\Development\BaekJoon\BaekJoonCodeStudy\BaekJoon\BaekJoon1546\bin\Debug\net6.0\BaekJoon1546.pdb
+C:\Users\OH SEWON\Desktop\Development\BaekJoon\BaekJoonCodeStudy\BaekJoon\BaekJoon1546\obj\Debug\net6.0\BaekJoon1546.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OH SEWON\Desktop\Development\BaekJoon\BaekJoonCodeStudy\BaekJoon\BaekJoon1546\obj\Debug\net6.0\BaekJoon1546.AssemblyInfoInputs.cache
+C:\Users\OH SEWON\Desktop\Development\BaekJoon\BaekJoonCodeStudy\BaekJoon\BaekJoon1546\obj\Debug\net6.0\BaekJoon1546.AssemblyInfo.cs
+C:\Users\OH SEWON\Desktop\Development\BaekJoon\BaekJoonCodeStudy\BaekJoon\BaekJoon1546\obj\Debug\net6.0\BaekJoon1546.csproj.CoreCompileInputs.cache
+C:\Users\OH SEWON\Desktop\Development\BaekJoon\BaekJoonCodeStudy\BaekJoon\BaekJoon1546\obj\Debug\net6.0\BaekJoon1546.dll
+C:\Users\OH SEWON\Desktop\Development\BaekJoon\BaekJoonCodeStudy\BaekJoon\BaekJoon1546\obj\Debug\net6.0\refint\BaekJoon1546.dll
+C:\Users\OH SEWON\Desktop\Development\BaekJoon\BaekJoonCodeStudy\BaekJoon\BaekJoon1546\obj\Debug\net6.0\BaekJoon1546.pdb
+C:\Users\OH SEWON\Desktop\Development\BaekJoon\BaekJoonCodeStudy\BaekJoon\BaekJoon1546\obj\Debug\net6.0\BaekJoon1546.genruntimeconfig.cache
+C:\Users\OH SEWON\Desktop\Development\BaekJoon\BaekJoonCodeStudy\BaekJoon\BaekJoon1546\obj\Debug\net6.0\ref\BaekJoon1546.dll
