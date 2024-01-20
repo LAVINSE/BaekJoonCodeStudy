@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\OH SEWON\\Desktop\\Development\\BaekJoon\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon2743\\BaekJoon2743.csproj",
+      "projectUniqueName": "C:\\Users\\OH SEWON\\Desktop\\Development\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon2743\\BaekJoon2743.csproj",
       "projectName": "BaekJoon2743",
-      "projectPath": "C:\\Users\\OH SEWON\\Desktop\\Development\\BaekJoon\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon2743\\BaekJoon2743.csproj",
+      "projectPath": "C:\\Users\\OH SEWON\\Desktop\\Development\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon2743\\BaekJoon2743.csproj",
       "packagesPath": "C:\\Users\\OH SEWON\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\OH SEWON\\Desktop\\Development\\BaekJoon\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon2743\\obj\\",
+      "outputPath": "C:\\Users\\OH SEWON\\Desktop\\Development\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon2743\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\OH SEWON\\AppData\\Roaming\\NuGet\\NuGet.Config",
