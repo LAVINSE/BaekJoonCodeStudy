@@ -21,7 +21,7 @@ public class Program
             {
                 answer = all;
             }
-            else if (input[0] == "Empty")
+            else if (input[0] == "empty")
             {
                 answer = 0;
             }
