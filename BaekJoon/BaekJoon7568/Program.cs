@@ -20,12 +20,14 @@ public class Program
             height[i] = input[1];
         }
 
+        // 브루트포스 알고리즘 사용
         for(int i =0; i < n; i++)
         {
             count = 0;
 
             for(int j = 0; j < n; j++)
             {
+                // 비교
                 if(height[i] < height[j] && weight[i] < weight[j])
                 {
                     count++;
