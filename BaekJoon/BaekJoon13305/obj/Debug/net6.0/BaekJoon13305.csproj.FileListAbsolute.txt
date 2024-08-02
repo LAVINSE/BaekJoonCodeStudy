@@ -1,0 +1,15 @@
+C:\Users\ff_de_202\Desktop\Unity Version\Study\BaekJoonCodeStudy\BaekJoon\BaekJoon13305\bin\Debug\net6.0\BaekJoon13305.exe
+C:\Users\ff_de_202\Desktop\Unity Version\Study\BaekJoonCodeStudy\BaekJoon\BaekJoon13305\bin\Debug\net6.0\BaekJoon13305.deps.json
+C:\Users\ff_de_202\Desktop\Unity Version\Study\BaekJoonCodeStudy\BaekJoon\BaekJoon13305\bin\Debug\net6.0\BaekJoon13305.runtimeconfig.json
+C:\Users\ff_de_202\Desktop\Unity Version\Study\BaekJoonCodeStudy\BaekJoon\BaekJoon13305\bin\Debug\net6.0\BaekJoon13305.dll
+C:\Users\ff_de_202\Desktop\Unity Version\Study\BaekJoonCodeStudy\BaekJoon\BaekJoon13305\bin\Debug\net6.0\BaekJoon13305.pdb
+C:\Users\ff_de_202\Desktop\Unity Version\Study\BaekJoonCodeStudy\BaekJoon\BaekJoon13305\obj\Debug\net6.0\BaekJoon13305.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ff_de_202\Desktop\Unity Version\Study\BaekJoonCodeStudy\BaekJoon\BaekJoon13305\obj\Debug\net6.0\BaekJoon13305.AssemblyInfoInputs.cache
+C:\Users\ff_de_202\Desktop\Unity Version\Study\BaekJoonCodeStudy\BaekJoon\BaekJoon13305\obj\Debug\net6.0\BaekJoon13305.AssemblyInfo.cs
+C:\Users\ff_de_202\Desktop\Unity Version\Study\BaekJoonCodeStudy\BaekJoon\BaekJoon13305\obj\Debug\net6.0\BaekJoon13305.csproj.CoreCompileInputs.cache
+C:\Users\ff_de_202\Desktop\Unity Version\Study\BaekJoonCodeStudy\BaekJoon\BaekJoon13305\obj\Debug\net6.0\BaekJoon13305.sourcelink.json
+C:\Users\ff_de_202\Desktop\Unity Version\Study\BaekJoonCodeStudy\BaekJoon\BaekJoon13305\obj\Debug\net6.0\BaekJoon13305.dll
+C:\Users\ff_de_202\Desktop\Unity Version\Study\BaekJoonCodeStudy\BaekJoon\BaekJoon13305\obj\Debug\net6.0\refint\BaekJoon13305.dll
+C:\Users\ff_de_202\Desktop\Unity Version\Study\BaekJoonCodeStudy\BaekJoon\BaekJoon13305\obj\Debug\net6.0\BaekJoon13305.pdb
+C:\Users\ff_de_202\Desktop\Unity Version\Study\BaekJoonCodeStudy\BaekJoon\BaekJoon13305\obj\Debug\net6.0\BaekJoon13305.genruntimeconfig.cache
+C:\Users\ff_de_202\Desktop\Unity Version\Study\BaekJoonCodeStudy\BaekJoon\BaekJoon13305\obj\Debug\net6.0\ref\BaekJoon13305.dll

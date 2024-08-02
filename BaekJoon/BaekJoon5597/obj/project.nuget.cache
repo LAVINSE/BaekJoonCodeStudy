@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "cJHsHQOuxsPLHYzqsyOxzFjpywjltHfuUQTSeUEvMOdDcLA0zXF+fZuIiV7dbz+uT9fn15dLcIF3lR5ud7nh3Q==",
+  "dgSpecHash": "I9PBc+c6XPftVlUIZJqOYiX+jqHAhv0PLanQOpbKi+miK7JaBfvVrajdOtwIbrLMuDHoOOkFweHI5fIHGazUig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\OH SEWON\\Desktop\\Development\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon5597\\BaekJoon5597.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon5597\\BaekJoon5597.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ff_de_202\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\ff_de_202\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\ff_de_202\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\ff_de_202\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.30\\microsoft.netcore.app.host.win-x64.6.0.30.nupkg.sha512"
+  ],
   "logs": []
 }

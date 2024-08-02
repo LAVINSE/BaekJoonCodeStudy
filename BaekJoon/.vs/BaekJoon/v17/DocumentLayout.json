@@ -1,0 +1,623 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84F897F6-1A2D-4339-8E73-0A930566580C}|BaekJoon13305\\BaekJoon13305.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon13305\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F897F6-1A2D-4339-8E73-0A930566580C}|BaekJoon13305\\BaekJoon13305.csproj|solutionrelative:baekjoon13305\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BF1C5E-2C7A-4370-91BA-AB0428A47169}|BaekJoon17266\\BaekJoon17266.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon17266\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9BF1C5E-2C7A-4370-91BA-AB0428A47169}|BaekJoon17266\\BaekJoon17266.csproj|solutionrelative:baekjoon17266\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C93EF3FD-D035-4B4B-805B-472DAB326FEF}|BaekJoon2164\\BaekJoon2164.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon2164\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C93EF3FD-D035-4B4B-805B-472DAB326FEF}|BaekJoon2164\\BaekJoon2164.csproj|solutionrelative:baekjoon2164\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D108EFD-4E4A-4BB9-B4B7-325C4A73C6D4}|BaekJoon9017\\BaekJoon9017.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon9017\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D108EFD-4E4A-4BB9-B4B7-325C4A73C6D4}|BaekJoon9017\\BaekJoon9017.csproj|solutionrelative:baekjoon9017\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A0399E-5DB4-4405-89EC-A20BB4CF0C12}|BaekJoon1244\\BaekJoon1244.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon1244\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A0399E-5DB4-4405-89EC-A20BB4CF0C12}|BaekJoon1244\\BaekJoon1244.csproj|solutionrelative:baekjoon1244\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CF48CA4-F2D7-468A-9D11-10DCE27EEA21}|BaekJoon1205\\BaekJoon1205.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon1205\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CF48CA4-F2D7-468A-9D11-10DCE27EEA21}|BaekJoon1205\\BaekJoon1205.csproj|solutionrelative:baekjoon1205\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68127FC8-A4AC-4008-BBE3-E4235F27D669}|BaekJoon25757\\BaekJoon25757.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon25757\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68127FC8-A4AC-4008-BBE3-E4235F27D669}|BaekJoon25757\\BaekJoon25757.csproj|solutionrelative:baekjoon25757\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A38F5C6-88FF-4161-81AE-E10597CC5C63}|BaekJoon20125\\BaekJoon20125.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon20125\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A38F5C6-88FF-4161-81AE-E10597CC5C63}|BaekJoon20125\\BaekJoon20125.csproj|solutionrelative:baekjoon20125\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31C92ADB-ABEA-49D1-BBB8-90A3CDFADF00}|BaekJoon7568\\BaekJoon7568.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon7568\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31C92ADB-ABEA-49D1-BBB8-90A3CDFADF00}|BaekJoon7568\\BaekJoon7568.csproj|solutionrelative:baekjoon7568\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F402B9B-8325-410A-80C1-28364941A166}|BaekJoon4659\\BaekJoon4659.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon4659\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F402B9B-8325-410A-80C1-28364941A166}|BaekJoon4659\\BaekJoon4659.csproj|solutionrelative:baekjoon4659\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{650F50D2-97A3-423F-BF45-732B01519B77}|BaekJoon8979\\BaekJoon8979.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon8979\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{650F50D2-97A3-423F-BF45-732B01519B77}|BaekJoon8979\\BaekJoon8979.csproj|solutionrelative:baekjoon8979\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799017EF-9399-4AF0-B275-0D4D794E18F3}|BaekJoon1157\\BaekJoon1157.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon1157\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799017EF-9399-4AF0-B275-0D4D794E18F3}|BaekJoon1157\\BaekJoon1157.csproj|solutionrelative:baekjoon1157\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27D1AC2-ACC8-4C24-B51F-D788F7A82BC1}|BaekJoon11723\\BaekJoon11723.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon11723\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27D1AC2-ACC8-4C24-B51F-D788F7A82BC1}|BaekJoon11723\\BaekJoon11723.csproj|solutionrelative:baekjoon11723\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49214499-AF55-4140-A137-8631F4893CBA}|BaekJoon9655\\BaekJoon9655.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon9655\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49214499-AF55-4140-A137-8631F4893CBA}|BaekJoon9655\\BaekJoon9655.csproj|solutionrelative:baekjoon9655\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A0BFB5-C336-4AAD-B2FF-F66855A78A75}|BaekJoon10431\\BaekJoon10431.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon10431\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1A0BFB5-C336-4AAD-B2FF-F66855A78A75}|BaekJoon10431\\BaekJoon10431.csproj|solutionrelative:baekjoon10431\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93541B86-A090-4929-B161-0C0704C0CA87}|BaekJoon2292\\BaekJoon2292.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon2292\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93541B86-A090-4929-B161-0C0704C0CA87}|BaekJoon2292\\BaekJoon2292.csproj|solutionrelative:baekjoon2292\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BD33F9-13AE-4748-9812-A9CB91391E5A}|BaekJoon10809\\BaekJoon10809.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon10809\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BD33F9-13AE-4748-9812-A9CB91391E5A}|BaekJoon10809\\BaekJoon10809.csproj|solutionrelative:baekjoon10809\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6D0C571-6E24-4587-91D2-09619E4AF1C4}|BaekJoon2675\\BaekJoon2675.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon2675\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6D0C571-6E24-4587-91D2-09619E4AF1C4}|BaekJoon2675\\BaekJoon2675.csproj|solutionrelative:baekjoon2675\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AB0D5BD-F39C-4333-B663-3277327BF519}|BaekJoon5073\\BaekJoon5073.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon5073\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AB0D5BD-F39C-4333-B663-3277327BF519}|BaekJoon5073\\BaekJoon5073.csproj|solutionrelative:baekjoon5073\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1A6C9B-8034-4F19-B48A-469E545F9D45}|BaekJoon23971\\BaekJoon23971.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon23971\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1A6C9B-8034-4F19-B48A-469E545F9D45}|BaekJoon23971\\BaekJoon23971.csproj|solutionrelative:baekjoon23971\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD628FF3-8006-4A5A-B112-9D08CB106938}|BaekJoon11718\\BaekJoon11718.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon11718\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD628FF3-8006-4A5A-B112-9D08CB106938}|BaekJoon11718\\BaekJoon11718.csproj|solutionrelative:baekjoon11718\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70CD72C1-13FC-462A-A329-262A149FC1B7}|BaekJoon25083\\BaekJoon25083.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon25083\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70CD72C1-13FC-462A-A329-262A149FC1B7}|BaekJoon25083\\BaekJoon25083.csproj|solutionrelative:baekjoon25083\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C722A7EE-7028-41FE-8F7E-3CDB4B906640}|BaekJoon3003\\BaekJoon3003.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon3003\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C722A7EE-7028-41FE-8F7E-3CDB4B906640}|BaekJoon3003\\BaekJoon3003.csproj|solutionrelative:baekjoon3003\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{758AA4F7-833F-4AD8-B589-315B28F2C358}|BaekJoon2444\\BaekJoon2444.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon2444\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{758AA4F7-833F-4AD8-B589-315B28F2C358}|BaekJoon2444\\BaekJoon2444.csproj|solutionrelative:baekjoon2444\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F105B6-38E2-4F9C-B429-1ADF0B6EBDC2}|BaekJoon5622\\BaekJoon5622.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon5622\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F105B6-38E2-4F9C-B429-1ADF0B6EBDC2}|BaekJoon5622\\BaekJoon5622.csproj|solutionrelative:baekjoon5622\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43677A68-7D99-41A6-B45C-4E68B05794CA}|BaekJoon27866\\BaekJoon27866.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon27866\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43677A68-7D99-41A6-B45C-4E68B05794CA}|BaekJoon27866\\BaekJoon27866.csproj|solutionrelative:baekjoon27866\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{766C91EC-9C6C-4ABF-979E-22AE93065FCA}|BaekJoon2908\\BaekJoon2908.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon2908\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{766C91EC-9C6C-4ABF-979E-22AE93065FCA}|BaekJoon2908\\BaekJoon2908.csproj|solutionrelative:baekjoon2908\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0C35A98-9882-4E41-887D-68559E88E6BC}|BaekJoon1152\\BaekJoon1152.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon1152\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C35A98-9882-4E41-887D-68559E88E6BC}|BaekJoon1152\\BaekJoon1152.csproj|solutionrelative:baekjoon1152\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1870580D-B9F4-4B3E-9B98-2B1DD9D507D0}|BaekJoon11720\\BaekJoon11720.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon11720\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1870580D-B9F4-4B3E-9B98-2B1DD9D507D0}|BaekJoon11720\\BaekJoon11720.csproj|solutionrelative:baekjoon11720\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FC2C22-924A-4602-88C8-8CD442A1E6E8}|BaekJoon11654\\BaekJoon11654.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon11654\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03FC2C22-924A-4602-88C8-8CD442A1E6E8}|BaekJoon11654\\BaekJoon11654.csproj|solutionrelative:baekjoon11654\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB077890-E43E-43A7-BC00-26A7933C121B}|BaekJoon9086\\BaekJoon9086.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon9086\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB077890-E43E-43A7-BC00-26A7933C121B}|BaekJoon9086\\BaekJoon9086.csproj|solutionrelative:baekjoon9086\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8DF9311-3A13-491E-B61B-E0C134598B24}|BaekJoon2743\\BaekJoon2743.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon2743\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8DF9311-3A13-491E-B61B-E0C134598B24}|BaekJoon2743\\BaekJoon2743.csproj|solutionrelative:baekjoon2743\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D576033F-814F-4A6D-B0E2-C878F9BD271E}|BaekJoon3052\\BaekJoon3052.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon3052\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D576033F-814F-4A6D-B0E2-C878F9BD271E}|BaekJoon3052\\BaekJoon3052.csproj|solutionrelative:baekjoon3052\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8322477-5EF5-41B8-864B-38A06ACD7D60}|BaekJoon1546\\BaekJoon1546.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon1546\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8322477-5EF5-41B8-864B-38A06ACD7D60}|BaekJoon1546\\BaekJoon1546.csproj|solutionrelative:baekjoon1546\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E16DF07-8A59-49FE-B205-1C2C1CCDC868}|BaekJoon10813\\BaekJoon10813.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon10813\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E16DF07-8A59-49FE-B205-1C2C1CCDC868}|BaekJoon10813\\BaekJoon10813.csproj|solutionrelative:baekjoon10813\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF9D4974-2094-431B-9E8E-32A2DB7BAAEA}|BaekJoon5597\\BaekJoon5597.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon5597\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF9D4974-2094-431B-9E8E-32A2DB7BAAEA}|BaekJoon5597\\BaekJoon5597.csproj|solutionrelative:baekjoon5597\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E03CD03-1CEA-43A0-B678-3CD0852224A7}|BaekJoon10810\\BaekJoon10810.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon10810\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E03CD03-1CEA-43A0-B678-3CD0852224A7}|BaekJoon10810\\BaekJoon10810.csproj|solutionrelative:baekjoon10810\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon13305\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon13305\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon13305\\Program.cs",
+              "RelativeToolTip": "BaekJoon13305\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:08:34.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon2164\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon2164\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon2164\\Program.cs",
+              "RelativeToolTip": "BaekJoon2164\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:08:35.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon17266\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon17266\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon17266\\Program.cs",
+              "RelativeToolTip": "BaekJoon17266\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:08:35.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon9017\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon9017\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon9017\\Program.cs",
+              "RelativeToolTip": "BaekJoon9017\\Program.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAiwH4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:08:35.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon1244\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon1244\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon1244\\Program.cs",
+              "RelativeToolTip": "BaekJoon1244\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:08:35.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon1205\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon1205\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon1205\\Program.cs",
+              "RelativeToolTip": "BaekJoon1205\\Program.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAiwEoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:08:35.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon20125\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon20125\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon20125\\Program.cs",
+              "RelativeToolTip": "BaekJoon20125\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAqwDIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:08:35.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon25757\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon25757\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon25757\\Program.cs",
+              "RelativeToolTip": "BaekJoon25757\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:08:35.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon4659\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon4659\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon4659\\Program.cs",
+              "RelativeToolTip": "BaekJoon4659\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAYwEYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:08:35.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon7568\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon7568\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon7568\\Program.cs",
+              "RelativeToolTip": "BaekJoon7568\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwCcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:08:35.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon8979\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon8979\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon8979\\Program.cs",
+              "RelativeToolTip": "BaekJoon8979\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:08:35.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon10431\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon10431\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon10431\\Program.cs",
+              "RelativeToolTip": "BaekJoon10431\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:08:35.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon9655\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon9655\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon9655\\Program.cs",
+              "RelativeToolTip": "BaekJoon9655\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:08:35.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon11723\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon11723\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon11723\\Program.cs",
+              "RelativeToolTip": "BaekJoon11723\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:08:35.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon1157\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon1157\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon1157\\Program.cs",
+              "RelativeToolTip": "BaekJoon1157\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwBUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:08:35.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon2292\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon2292\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon2292\\Program.cs",
+              "RelativeToolTip": "BaekJoon2292\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:08:35.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon5073\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon5073\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon5073\\Program.cs",
+              "RelativeToolTip": "BaekJoon5073\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwBQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:08:35.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon23971\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon23971\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon23971\\Program.cs",
+              "RelativeToolTip": "BaekJoon23971\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:08:35.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon2444\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon2444\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon2444\\Program.cs",
+              "RelativeToolTip": "BaekJoon2444\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwDAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:08:35.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon3003\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon3003\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon3003\\Program.cs",
+              "RelativeToolTip": "BaekJoon3003\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:08:35.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon25083\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon25083\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon25083\\Program.cs",
+              "RelativeToolTip": "BaekJoon25083\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:08:35.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon11718\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon11718\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon11718\\Program.cs",
+              "RelativeToolTip": "BaekJoon11718\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:08:35.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon5622\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon5622\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon5622\\Program.cs",
+              "RelativeToolTip": "BaekJoon5622\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAYwCwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:08:35.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon2908\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon2908\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon2908\\Program.cs",
+              "RelativeToolTip": "BaekJoon2908\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwCAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:08:35.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon1152\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon1152\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon1152\\Program.cs",
+              "RelativeToolTip": "BaekJoon1152\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:08:35.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon2675\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon2675\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon2675\\Program.cs",
+              "RelativeToolTip": "BaekJoon2675\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:08:35.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon10809\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon10809\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon10809\\Program.cs",
+              "RelativeToolTip": "BaekJoon10809\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:08:35.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon11720\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon11720\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon11720\\Program.cs",
+              "RelativeToolTip": "BaekJoon11720\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:08:35.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon11654\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon11654\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon11654\\Program.cs",
+              "RelativeToolTip": "BaekJoon11654\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:08:35.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon9086\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon9086\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon9086\\Program.cs",
+              "RelativeToolTip": "BaekJoon9086\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:08:35.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon2743\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon2743\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon2743\\Program.cs",
+              "RelativeToolTip": "BaekJoon2743\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:08:35.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon27866\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon27866\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon27866\\Program.cs",
+              "RelativeToolTip": "BaekJoon27866\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:08:35.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon1546\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon1546\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon1546\\Program.cs",
+              "RelativeToolTip": "BaekJoon1546\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwCYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:08:35.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon3052\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon3052\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon3052\\Program.cs",
+              "RelativeToolTip": "BaekJoon3052\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:08:35.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon5597\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon5597\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon5597\\Program.cs",
+              "RelativeToolTip": "BaekJoon5597\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:08:35.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon10813\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon10813\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon10813\\Program.cs",
+              "RelativeToolTip": "BaekJoon10813\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAABBwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:08:35.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon10810\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon10810\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon10810\\Program.cs",
+              "RelativeToolTip": "BaekJoon10810\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAABBwB8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T00:08:35.15Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 220,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
