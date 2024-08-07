@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{496426C0-0154-4D27-ACA2-71B19A470913}|BaekJoon1515\\BaekJoon1515.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon1515\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496426C0-0154-4D27-ACA2-71B19A470913}|BaekJoon1515\\BaekJoon1515.csproj|solutionrelative:baekjoon1515\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3080D864-7786-41E9-A0C1-62FB73D83CC7}|BaekJoon21912\\BaekJoon21912.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon21912\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3080D864-7786-41E9-A0C1-62FB73D83CC7}|BaekJoon21912\\BaekJoon21912.csproj|solutionrelative:baekjoon21912\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14172DB9-C3E5-414B-B404-AFAA481460C5}|BaekJoon2512\\BaekJoon2512.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon2512\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14172DB9-C3E5-414B-B404-AFAA481460C5}|BaekJoon2512\\BaekJoon2512.csproj|solutionrelative:baekjoon2512\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5CEC2452-0CCB-4D87-ACE9-2C425C7FBD4C}|BaekJoon20920\\BaekJoon20920.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon20920\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CEC2452-0CCB-4D87-ACE9-2C425C7FBD4C}|BaekJoon20920\\BaekJoon20920.csproj|solutionrelative:baekjoon20920\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -168,18 +180,57 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon1515\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon1515\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon1515\\Program.cs",
+              "RelativeToolTip": "BaekJoon1515\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T00:16:03.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon21912\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon21912\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon21912\\Program.cs",
+              "RelativeToolTip": "BaekJoon21912\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwDYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T00:29:10.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon2512\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon2512\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon2512\\Program.cs",
+              "RelativeToolTip": "BaekJoon2512\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T00:00:33.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon20920\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon20920\\Program.cs",
               "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon20920\\Program.cs",
               "RelativeToolTip": "BaekJoon20920\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAcwBMAAABJAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwCwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-05T00:12:02.74Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon13305\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon13305\\Program.cs",
@@ -192,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon2164\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon2164\\Program.cs",
@@ -200,11 +251,12 @@
               "RelativeToolTip": "BaekJoon2164\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.026Z"
+              "WhenOpened": "2024-08-01T00:08:35.026Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon17266\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon17266\\Program.cs",
@@ -212,11 +264,12 @@
               "RelativeToolTip": "BaekJoon17266\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.029Z"
+              "WhenOpened": "2024-08-01T00:08:35.029Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon9017\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon9017\\Program.cs",
@@ -224,11 +277,12 @@
               "RelativeToolTip": "BaekJoon9017\\Program.cs",
               "ViewState": "AQIAAGMAAAAAAAAAAAAiwH4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.031Z"
+              "WhenOpened": "2024-08-01T00:08:35.031Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon1244\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon1244\\Program.cs",
@@ -236,11 +290,12 @@
               "RelativeToolTip": "BaekJoon1244\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.032Z"
+              "WhenOpened": "2024-08-01T00:08:35.032Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon1205\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon1205\\Program.cs",
@@ -248,11 +303,12 @@
               "RelativeToolTip": "BaekJoon1205\\Program.cs",
               "ViewState": "AQIAAC8AAAAAAAAAAAAiwEoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.034Z"
+              "WhenOpened": "2024-08-01T00:08:35.034Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon20125\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon20125\\Program.cs",
@@ -260,11 +316,12 @@
               "RelativeToolTip": "BaekJoon20125\\Program.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAqwDIAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.036Z"
+              "WhenOpened": "2024-08-01T00:08:35.036Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon25757\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon25757\\Program.cs",
@@ -272,11 +329,12 @@
               "RelativeToolTip": "BaekJoon25757\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.038Z"
+              "WhenOpened": "2024-08-01T00:08:35.038Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon4659\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon4659\\Program.cs",
@@ -284,11 +342,12 @@
               "RelativeToolTip": "BaekJoon4659\\Program.cs",
               "ViewState": "AQIAACgAAAAAAAAAAAAYwEYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.04Z"
+              "WhenOpened": "2024-08-01T00:08:35.04Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon7568\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon7568\\Program.cs",
@@ -296,11 +355,12 @@
               "RelativeToolTip": "BaekJoon7568\\Program.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAYwCcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.042Z"
+              "WhenOpened": "2024-08-01T00:08:35.042Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon8979\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon8979\\Program.cs",
@@ -308,11 +368,12 @@
               "RelativeToolTip": "BaekJoon8979\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.044Z"
+              "WhenOpened": "2024-08-01T00:08:35.044Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon10431\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon10431\\Program.cs",
@@ -320,11 +381,12 @@
               "RelativeToolTip": "BaekJoon10431\\Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAYwBIAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.047Z"
+              "WhenOpened": "2024-08-01T00:08:35.047Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon9655\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon9655\\Program.cs",
@@ -332,23 +394,25 @@
               "RelativeToolTip": "BaekJoon9655\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.049Z"
+              "WhenOpened": "2024-08-01T00:08:35.049Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon11723\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon11723\\Program.cs",
               "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon11723\\Program.cs",
               "RelativeToolTip": "BaekJoon11723\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwA4AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.052Z"
+              "WhenOpened": "2024-08-01T00:08:35.052Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon1157\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon1157\\Program.cs",
@@ -356,23 +420,25 @@
               "RelativeToolTip": "BaekJoon1157\\Program.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAYwBUAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.081Z"
+              "WhenOpened": "2024-08-01T00:08:35.081Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon2292\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon2292\\Program.cs",
               "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon2292\\Program.cs",
               "RelativeToolTip": "BaekJoon2292\\Program.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAIBQwA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.084Z"
+              "WhenOpened": "2024-08-01T00:08:35.084Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon5073\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon5073\\Program.cs",
@@ -380,11 +446,12 @@
               "RelativeToolTip": "BaekJoon5073\\Program.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAYwBQAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.086Z"
+              "WhenOpened": "2024-08-01T00:08:35.086Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon23971\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon23971\\Program.cs",
@@ -392,11 +459,12 @@
               "RelativeToolTip": "BaekJoon23971\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.089Z"
+              "WhenOpened": "2024-08-01T00:08:35.089Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon2444\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon2444\\Program.cs",
@@ -404,11 +472,12 @@
               "RelativeToolTip": "BaekJoon2444\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAYwDAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.092Z"
+              "WhenOpened": "2024-08-01T00:08:35.092Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon3003\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon3003\\Program.cs",
@@ -416,11 +485,12 @@
               "RelativeToolTip": "BaekJoon3003\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.095Z"
+              "WhenOpened": "2024-08-01T00:08:35.095Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon25083\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon25083\\Program.cs",
@@ -428,11 +498,12 @@
               "RelativeToolTip": "BaekJoon25083\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.097Z"
+              "WhenOpened": "2024-08-01T00:08:35.097Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon11718\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon11718\\Program.cs",
@@ -440,11 +511,12 @@
               "RelativeToolTip": "BaekJoon11718\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.1Z"
+              "WhenOpened": "2024-08-01T00:08:35.1Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon5622\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon5622\\Program.cs",
@@ -452,11 +524,12 @@
               "RelativeToolTip": "BaekJoon5622\\Program.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAYwCwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.102Z"
+              "WhenOpened": "2024-08-01T00:08:35.102Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon2908\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon2908\\Program.cs",
@@ -464,11 +537,12 @@
               "RelativeToolTip": "BaekJoon2908\\Program.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAUwCAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.104Z"
+              "WhenOpened": "2024-08-01T00:08:35.104Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon1152\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon1152\\Program.cs",
@@ -476,11 +550,12 @@
               "RelativeToolTip": "BaekJoon1152\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.107Z"
+              "WhenOpened": "2024-08-01T00:08:35.107Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon2675\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon2675\\Program.cs",
@@ -488,11 +563,12 @@
               "RelativeToolTip": "BaekJoon2675\\Program.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAYwBcAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.11Z"
+              "WhenOpened": "2024-08-01T00:08:35.11Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon10809\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon10809\\Program.cs",
@@ -500,11 +576,12 @@
               "RelativeToolTip": "BaekJoon10809\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.112Z"
+              "WhenOpened": "2024-08-01T00:08:35.112Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon11720\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon11720\\Program.cs",
@@ -512,11 +589,12 @@
               "RelativeToolTip": "BaekJoon11720\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.114Z"
+              "WhenOpened": "2024-08-01T00:08:35.114Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon11654\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon11654\\Program.cs",
@@ -524,11 +602,12 @@
               "RelativeToolTip": "BaekJoon11654\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.116Z"
+              "WhenOpened": "2024-08-01T00:08:35.116Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon9086\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon9086\\Program.cs",
@@ -536,11 +615,12 @@
               "RelativeToolTip": "BaekJoon9086\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.119Z"
+              "WhenOpened": "2024-08-01T00:08:35.119Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon2743\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon2743\\Program.cs",
@@ -548,11 +628,12 @@
               "RelativeToolTip": "BaekJoon2743\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.122Z"
+              "WhenOpened": "2024-08-01T00:08:35.122Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon27866\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon27866\\Program.cs",
@@ -560,11 +641,12 @@
               "RelativeToolTip": "BaekJoon27866\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.125Z"
+              "WhenOpened": "2024-08-01T00:08:35.125Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon1546\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon1546\\Program.cs",
@@ -572,11 +654,12 @@
               "RelativeToolTip": "BaekJoon1546\\Program.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAYwCYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.128Z"
+              "WhenOpened": "2024-08-01T00:08:35.128Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon3052\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon3052\\Program.cs",
@@ -584,11 +667,12 @@
               "RelativeToolTip": "BaekJoon3052\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.14Z"
+              "WhenOpened": "2024-08-01T00:08:35.14Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon5597\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon5597\\Program.cs",
@@ -596,31 +680,34 @@
               "RelativeToolTip": "BaekJoon5597\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.144Z"
+              "WhenOpened": "2024-08-01T00:08:35.144Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon10813\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon10813\\Program.cs",
               "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon10813\\Program.cs",
               "RelativeToolTip": "BaekJoon10813\\Program.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAABBwBgAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.148Z"
+              "WhenOpened": "2024-08-01T00:08:35.148Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon10810\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon10810\\Program.cs",
               "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon10810\\Program.cs",
               "RelativeToolTip": "BaekJoon10810\\Program.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAABBwB8AAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwB8AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.15Z"
+              "WhenOpened": "2024-08-01T00:08:35.15Z",
+              "EditorCaption": ""
             }
           ]
         },
