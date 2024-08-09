@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{496426C0-0154-4D27-ACA2-71B19A470913}|BaekJoon1515\\BaekJoon1515.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon1515\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{496426C0-0154-4D27-ACA2-71B19A470913}|BaekJoon1515\\BaekJoon1515.csproj|solutionrelative:baekjoon1515\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7A3152F-18C0-4579-86BA-408F8EFEF09D}|BaekJoon19941\\BaekJoon19941.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon19941\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7A3152F-18C0-4579-86BA-408F8EFEF09D}|BaekJoon19941\\BaekJoon19941.csproj|solutionrelative:baekjoon19941\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3080D864-7786-41E9-A0C1-62FB73D83CC7}|BaekJoon21912\\BaekJoon21912.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon21912\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3080D864-7786-41E9-A0C1-62FB73D83CC7}|BaekJoon21912\\BaekJoon21912.csproj|solutionrelative:baekjoon21912\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{496426C0-0154-4D27-ACA2-71B19A470913}|BaekJoon1515\\BaekJoon1515.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon1515\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496426C0-0154-4D27-ACA2-71B19A470913}|BaekJoon1515\\BaekJoon1515.csproj|solutionrelative:baekjoon1515\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14172DB9-C3E5-414B-B404-AFAA481460C5}|BaekJoon2512\\BaekJoon2512.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon2512\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -165,6 +165,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{7E03CD03-1CEA-43A0-B678-3CD0852224A7}|BaekJoon10810\\BaekJoon10810.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon10810\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E03CD03-1CEA-43A0-B678-3CD0852224A7}|BaekJoon10810\\BaekJoon10810.csproj|solutionrelative:baekjoon10810\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3080D864-7786-41E9-A0C1-62FB73D83CC7}|BaekJoon21912\\BaekJoon21921.csproj|c:\\users\\ff_de_202\\desktop\\unity version\\study\\baekjooncodestudy\\baekjoon\\baekjoon21912\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3080D864-7786-41E9-A0C1-62FB73D83CC7}|BaekJoon21912\\BaekJoon21921.csproj|solutionrelative:baekjoon21912\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -180,18 +184,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon19941\\Program.cs",
+              "RelativeDocumentMoniker": "BaekJoon19941\\Program.cs",
+              "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon19941\\Program.cs",
+              "RelativeToolTip": "BaekJoon19941\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T00:18:12.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon1515\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon1515\\Program.cs",
               "ToolTip": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon1515\\Program.cs",
               "RelativeToolTip": "BaekJoon1515\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-07T00:16:03.343Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 41,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ff_de_202\\Desktop\\Unity Version\\Study\\BaekJoonCodeStudy\\BaekJoon\\BaekJoon21912\\Program.cs",
               "RelativeDocumentMoniker": "BaekJoon21912\\Program.cs",
@@ -199,8 +216,7 @@
               "RelativeToolTip": "BaekJoon21912\\Program.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAmwDYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T00:29:10.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T00:29:10.25Z"
             },
             {
               "$type": "Document",
@@ -212,8 +228,7 @@
               "RelativeToolTip": "BaekJoon2512\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T00:00:33.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T00:00:33.771Z"
             },
             {
               "$type": "Document",
@@ -225,8 +240,7 @@
               "RelativeToolTip": "BaekJoon20920\\Program.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAcwCwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T00:12:02.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-05T00:12:02.74Z"
             },
             {
               "$type": "Document",
@@ -238,8 +252,7 @@
               "RelativeToolTip": "BaekJoon13305\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:34.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:08:34.976Z"
             },
             {
               "$type": "Document",
@@ -251,8 +264,7 @@
               "RelativeToolTip": "BaekJoon2164\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:08:35.026Z"
             },
             {
               "$type": "Document",
@@ -264,8 +276,7 @@
               "RelativeToolTip": "BaekJoon17266\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:08:35.029Z"
             },
             {
               "$type": "Document",
@@ -277,8 +288,7 @@
               "RelativeToolTip": "BaekJoon9017\\Program.cs",
               "ViewState": "AQIAAGMAAAAAAAAAAAAiwH4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:08:35.031Z"
             },
             {
               "$type": "Document",
@@ -290,8 +300,7 @@
               "RelativeToolTip": "BaekJoon1244\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:08:35.032Z"
             },
             {
               "$type": "Document",
@@ -303,8 +312,7 @@
               "RelativeToolTip": "BaekJoon1205\\Program.cs",
               "ViewState": "AQIAAC8AAAAAAAAAAAAiwEoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:08:35.034Z"
             },
             {
               "$type": "Document",
@@ -316,8 +324,7 @@
               "RelativeToolTip": "BaekJoon20125\\Program.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAqwDIAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:08:35.036Z"
             },
             {
               "$type": "Document",
@@ -329,8 +336,7 @@
               "RelativeToolTip": "BaekJoon25757\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:08:35.038Z"
             },
             {
               "$type": "Document",
@@ -342,8 +348,7 @@
               "RelativeToolTip": "BaekJoon4659\\Program.cs",
               "ViewState": "AQIAACgAAAAAAAAAAAAYwEYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:08:35.04Z"
             },
             {
               "$type": "Document",
@@ -355,8 +360,7 @@
               "RelativeToolTip": "BaekJoon7568\\Program.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAYwCcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:08:35.042Z"
             },
             {
               "$type": "Document",
@@ -368,8 +372,7 @@
               "RelativeToolTip": "BaekJoon8979\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:08:35.044Z"
             },
             {
               "$type": "Document",
@@ -381,8 +384,7 @@
               "RelativeToolTip": "BaekJoon10431\\Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAYwBIAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:08:35.047Z"
             },
             {
               "$type": "Document",
@@ -394,8 +396,7 @@
               "RelativeToolTip": "BaekJoon9655\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:08:35.049Z"
             },
             {
               "$type": "Document",
@@ -407,8 +408,7 @@
               "RelativeToolTip": "BaekJoon11723\\Program.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAIBJwA4AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:08:35.052Z"
             },
             {
               "$type": "Document",
@@ -420,8 +420,7 @@
               "RelativeToolTip": "BaekJoon1157\\Program.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAYwBUAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:08:35.081Z"
             },
             {
               "$type": "Document",
@@ -433,8 +432,7 @@
               "RelativeToolTip": "BaekJoon2292\\Program.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAIBQwA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:08:35.084Z"
             },
             {
               "$type": "Document",
@@ -446,8 +444,7 @@
               "RelativeToolTip": "BaekJoon5073\\Program.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAYwBQAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:08:35.086Z"
             },
             {
               "$type": "Document",
@@ -459,8 +456,7 @@
               "RelativeToolTip": "BaekJoon23971\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:08:35.089Z"
             },
             {
               "$type": "Document",
@@ -472,8 +468,7 @@
               "RelativeToolTip": "BaekJoon2444\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAYwDAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:08:35.092Z"
             },
             {
               "$type": "Document",
@@ -485,8 +480,7 @@
               "RelativeToolTip": "BaekJoon3003\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:08:35.095Z"
             },
             {
               "$type": "Document",
@@ -498,8 +492,7 @@
               "RelativeToolTip": "BaekJoon25083\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.097Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:08:35.097Z"
             },
             {
               "$type": "Document",
@@ -511,8 +504,7 @@
               "RelativeToolTip": "BaekJoon11718\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:08:35.1Z"
             },
             {
               "$type": "Document",
@@ -524,8 +516,7 @@
               "RelativeToolTip": "BaekJoon5622\\Program.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAAYwCwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:08:35.102Z"
             },
             {
               "$type": "Document",
@@ -537,8 +528,7 @@
               "RelativeToolTip": "BaekJoon2908\\Program.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAUwCAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:08:35.104Z"
             },
             {
               "$type": "Document",
@@ -550,8 +540,7 @@
               "RelativeToolTip": "BaekJoon1152\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:08:35.107Z"
             },
             {
               "$type": "Document",
@@ -563,8 +552,7 @@
               "RelativeToolTip": "BaekJoon2675\\Program.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAYwBcAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:08:35.11Z"
             },
             {
               "$type": "Document",
@@ -576,8 +564,7 @@
               "RelativeToolTip": "BaekJoon10809\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:08:35.112Z"
             },
             {
               "$type": "Document",
@@ -589,8 +576,7 @@
               "RelativeToolTip": "BaekJoon11720\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:08:35.114Z"
             },
             {
               "$type": "Document",
@@ -602,8 +588,7 @@
               "RelativeToolTip": "BaekJoon11654\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:08:35.116Z"
             },
             {
               "$type": "Document",
@@ -615,8 +600,7 @@
               "RelativeToolTip": "BaekJoon9086\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:08:35.119Z"
             },
             {
               "$type": "Document",
@@ -628,8 +612,7 @@
               "RelativeToolTip": "BaekJoon2743\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:08:35.122Z"
             },
             {
               "$type": "Document",
@@ -641,8 +624,7 @@
               "RelativeToolTip": "BaekJoon27866\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:08:35.125Z"
             },
             {
               "$type": "Document",
@@ -654,8 +636,7 @@
               "RelativeToolTip": "BaekJoon1546\\Program.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAYwCYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:08:35.128Z"
             },
             {
               "$type": "Document",
@@ -667,8 +648,7 @@
               "RelativeToolTip": "BaekJoon3052\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:08:35.14Z"
             },
             {
               "$type": "Document",
@@ -680,8 +660,7 @@
               "RelativeToolTip": "BaekJoon5597\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:08:35.144Z"
             },
             {
               "$type": "Document",
@@ -693,8 +672,7 @@
               "RelativeToolTip": "BaekJoon10813\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwBgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:08:35.148Z"
             },
             {
               "$type": "Document",
@@ -706,8 +684,7 @@
               "RelativeToolTip": "BaekJoon10810\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwB8AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T00:08:35.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T00:08:35.15Z"
             }
           ]
         },
