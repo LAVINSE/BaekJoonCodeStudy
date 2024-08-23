@@ -16,8 +16,7 @@ public class Program
         StreamWriter writer = new StreamWriter(new BufferedStream(Console.OpenStandardOutput()));
 
         int n = int.Parse(reader.ReadLine());
-        //int[] inputs = new int[n];
-        List<int> inputs = new List<int>(n);
+        PriorityQueue<int, int> inputQueue = new PriorityQueue<int, int>();
 
         StringBuilder stringBuilder = new StringBuilder();
 
@@ -27,15 +26,14 @@ public class Program
 
             if(x > 0)
             {
-                inputs.Add(x);
+                inputQueue.Enqueue(x, x);
             }
             else if(x == 0)
             {
-                if(inputs.Count != 0)
+                if(inputQueue.Count >0)
                 {
-                    int removeInput = inputs.OrderBy(x => x).First();
-                    stringBuilder.AppendLine(removeInput.ToString());
-                    inputs.Remove(removeInput);
+                    int minValue = inputQueue.Dequeue();
+                    stringBuilder.AppendLine(minValue.ToString());
                 }
                 else
                 {
@@ -45,7 +43,7 @@ public class Program
             }
         }
 
-        Console.Write(stringBuilder);
+        writer.Write(stringBuilder);
 
         reader.Close();
         writer.Close();
