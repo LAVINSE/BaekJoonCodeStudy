@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using System.ComponentModel;
 using System.Linq;
 using System.Text;
 
@@ -17,51 +16,78 @@ public class Program
         StreamWriter writer = new StreamWriter(new BufferedStream(Console.OpenStandardOutput()));
         StringBuilder stringBuilder = new StringBuilder();
 
-        int[] inputs = Array.ConvertAll(reader.ReadLine().Split(), int.Parse);
-        int p = inputs[0];
-        int m = inputs[1];
+        string[] input = reader.ReadLine().Split(); // 입력
+        int p = int.Parse(input[0]);   // 플레이어 수
+        int m = int.Parse(input[1]);   // 방 정원
 
-        int count = 0;
+        Player[] players = new Player[p];
 
-        string start = "Started!";
-        string wait = "Waiting!";
-
-        Dictionary<int, string> playerDataDict = new Dictionary<int, string>();
-
-        for(int i = 0; i < p; i++)
+        // 플레이어 정보 등록
+        for (int i = 0; i < p; i++)
         {
-            string[] playerDatas = reader.ReadLine().Split();
-            int level = int.Parse(playerDatas[0]);
-            string nick = playerDatas[1];
-
-            playerDataDict.Add(level, nick);
+            string[] inputPlayer = reader.ReadLine().Split();
+            int level = int.Parse(inputPlayer[0]);
+            string name = inputPlayer[1];
+            players[i] = new Player(level, name);
         }
 
-        for (int i = 0; i < playerDataDict.Count; i++)
+        for (int i = 0; i < p; i++)
         {
-            if(playerDataDict.Count >= m)
+            List<Player> roomList = new List<Player>();
+            if (!players[i].Check)
             {
-                var playerLevel = playerDataDict.ToList()[i].Key;
-                //playerDataDict.or
-                if (count == 0)
-                    stringBuilder.AppendLine(start);
+                for (int j = i; j < p; j++)
+                {
+                    // 방이 가득찼으면 종료
+                    if (roomList.Count == m)
+                        break;
 
-                stringBuilder.AppendLine(playerDataDict.ToList()[i].Key.ToString() + playerDataDict.ToList()[i].Value);
-                
-                count++;
-            }
-            else
-            {
-                stringBuilder.AppendLine(wait);
-            }
+                    int level = players[j].Level;
+                    string name = players[j].Nick;
 
-            if (count == m)
-                count = 0;
+                    // 플레이어가 방에 안들어갔고 처음 들어온 플레이어의 레벨 +- 10 범위에 있을 경우
+                    if (!players[j].Check && players[i].Level - 10 <= level && players[i].Level + 10 >= level)
+                    {
+                        players[j].Check = true;
+                        roomList.Add(new Player(level, name));
+                    }
+                }
+
+                // 정렬
+                roomList.Sort();
+
+                if (roomList.Count == m)
+                    stringBuilder.AppendLine("Started!");
+                else
+                    stringBuilder.AppendLine("Waiting!");
+
+                foreach (Player player in roomList)
+                    stringBuilder.AppendLine($"{player.Level} {player.Nick}");
+            }
         }
 
-        writer.Write(stringBuilder);
+        writer.Write(stringBuilder.ToString());
 
         reader.Close();
         writer.Close();
+    }
+
+    public class Player : IComparable<Player>
+    {
+        public int Level { get; set; }
+        public string Nick { get; set; }
+        public bool Check { get; set; } // 방에 들어갔는지 확인하는 변수
+
+        public Player(int level, string nick)
+        {
+            this.Level = level;
+            this.Nick = nick;
+            Check = false; 
+        }
+
+        public int CompareTo(Player other)
+        {
+            return Nick.CompareTo(other.Nick);
+        }
     }
 }
