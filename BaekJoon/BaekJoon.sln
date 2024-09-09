@@ -115,7 +115,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaekJoon1138", "BaekJoon113
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaekJoon1260", "BaekJoon1260\BaekJoon1260.csproj", "{0D71E580-DD5C-42AE-927F-D171689DFAF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaekJoon14940", "BaekJoon14940\BaekJoon14940.csproj", "{F1CD9208-DCB7-47E0-BDD0-BD1E68D67DA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaekJoon14940", "BaekJoon14940\BaekJoon14940.csproj", "{F1CD9208-DCB7-47E0-BDD0-BD1E68D67DA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaekJoon20922", "BaekJoon20922\BaekJoon20922.csproj", "{3CE242F4-AB1C-4101-850A-6EC97DF8A186}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -351,6 +353,10 @@ Global
 		{F1CD9208-DCB7-47E0-BDD0-BD1E68D67DA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1CD9208-DCB7-47E0-BDD0-BD1E68D67DA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1CD9208-DCB7-47E0-BDD0-BD1E68D67DA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CE242F4-AB1C-4101-850A-6EC97DF8A186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CE242F4-AB1C-4101-850A-6EC97DF8A186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CE242F4-AB1C-4101-850A-6EC97DF8A186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CE242F4-AB1C-4101-850A-6EC97DF8A186}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
