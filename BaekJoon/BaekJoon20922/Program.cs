@@ -29,8 +29,10 @@ public class Program
 
         while(end < n)
         {
+            // 현재 숫자가 K개 아래 일 경우
             if(pointsCheck[sequence[end]] < k)
             {
+                // 해당 숫자 등장 횟수 증가
                 pointsCheck[sequence[end]]++;
                 end++;
             }
