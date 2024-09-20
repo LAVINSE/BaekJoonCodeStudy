@@ -16,7 +16,52 @@ public class Program
         StreamWriter writer = new StreamWriter(new BufferedStream(Console.OpenStandardOutput()));
         //StringBuilder stringBuilder = new StringBuilder();
 
-        
+        string input = reader.ReadLine();
+        char a = 'a';
+        char b = 'b';
+
+        int countA = 0;
+        int countB = 0;
+        int min = int.MaxValue;
+
+
+        // A의 개수 확인
+        for(int i = 0; i < input.Length; i++)
+        {
+            if (input[i] == a)
+                countA++;
+        }
+
+        // 연속된 countA개의 문자 중에서 B가 몇개인지 확인
+        for(int i = 0; i < countA; i++)
+        {
+            if (input[i] == b)
+                countB++;
+        }
+
+        // a 또는 b가 없다면 옮길 필요 없음
+        if(countA == 0 || countB == 0)
+        {
+            writer.Write(0);
+            reader.Close();
+            writer.Close();
+            return;
+        }
+
+        for(int i = 1; i < input.Length; i++)
+        {
+            // 왼쪽 끝 요소를 제거 할때 b 이면 감소
+            if (input[(i - 1) % input.Length] == b)
+                countB--;
+
+            // 새롭게 포함되는 요소가 b이면 증가
+            if (input[(i + countA - 1) % input.Length] == b)
+                countB++;
+
+            min = Math.Min(min, countB);
+        }
+
+        writer.Write(min);
 
         reader.Close();
         writer.Close();
