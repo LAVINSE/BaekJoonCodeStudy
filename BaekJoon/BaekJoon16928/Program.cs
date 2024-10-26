@@ -8,8 +8,6 @@ using System.Text;
 
 public class Program
 {
-    private static int answer = 0;
-
     private static void Main(string[] args)
     {
 
@@ -30,43 +28,43 @@ public class Program
         int n = inputs[0];
         int m = inputs[1];
 
-        List<Ladder> ladderList = new List<Ladder>();
-        List<Snake> SnakeList = new List<Snake>();
+        int[] map = new int[101];
+        int[] saveData = new int[101];
 
-        for (int i = 0; i < n; i++)
+        Queue<(int, int)> posDice = new Queue<(int, int)>();
+
+        for (int i = 0; i < n + m; i++)
         {
             int[] pos = Array.ConvertAll(reader.ReadLine().Split(), int.Parse);
-            ladderList.Add(new Ladder(pos[0], pos[1]));
+
+            map[pos[0]] = pos[1];
         }
 
-        for (int i = 0; i < n; i++)
+        posDice.Enqueue((1, -1));
+
+        while(posDice.Count > 0)
         {
-            int[] pos = Array.ConvertAll(reader.ReadLine().Split(), int.Parse);
-            SnakeList.Add(new Snake(pos[0], pos[1]));
+            var value = posDice.Dequeue();
+            int checkMove = value.Item1;
+
+            if (saveData[value.Item1] <= value.Item2 && (saveData[value.Item1] != 0))
+                continue;
+
+            saveData[value.Item1] = value.Item2 + 1;
+
+            if (map[value.Item1] != 0)
+                checkMove = map[value.Item1];
+
+            for(int i = 0; i < 6; i++)
+            {
+                int next = checkMove + 1 + i;
+                if (next > 100)
+                    break;
+
+                posDice.Enqueue((next, saveData[value.Item1]));
+            }
         }
-    }
-}
 
-public class Ladder
-{
-    public int x;
-    public int y;
-
-    public Ladder(int x, int y)
-    {
-        this.x = x;
-        this.y = y;
-    }
-}
-
-public class Snake
-{
-    public int u;
-    public int v;
-
-    public Snake(int u, int v)
-    {
-        this.u = u;
-        this.v = v;
+        writer.Write(saveData[100]);
     }
 }
