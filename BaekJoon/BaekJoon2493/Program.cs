@@ -20,38 +20,31 @@ public class Program
         int n = int.Parse(reader.ReadLine());
         int[] topArray = Array.ConvertAll(reader.ReadLine().Split(), int.Parse);
 
-        Stack<int> stack = new Stack<int>();
+        Stack<(int index, int height)> stack = new Stack<(int, int)>(); // 인덱스와 높이를 함께 저장
 
-        for(int i = 0; i < n; i++)
+        for (int i = 0; i < n; i++)
         {
             int currentHeight = topArray[i];
 
-            if(stack.Count == 0)
+            // 스택이 비어 있지 않고 현재 탑이 스택의 탑보다 높을 때까지 pop
+            while (stack.Count > 0 && stack.Peek().height < currentHeight)
             {
-                stack.Push(currentHeight);
+                stack.Pop();
+            }
+
+            if (stack.Count == 0)
+            {
+                stringBuilder.Append("0 ");
             }
             else
             {
-                if(stack.Count == 0)
-                {
-                    stringBuilder.Append(0);
-                    stack.Push(currentHeight);
-                }
-
-                int height = stack.Peek();
-
-                if (height > currentHeight)
-                {
-                    stringBuilder.Append(stack.Count);
-                    stack.Push(height);
-                }
-                else
-                {
-                    stack.Pop();
-                }
+                stringBuilder.Append($"{stack.Peek().index + 1} ");
             }
+
+            // 현재 탑의 인덱스와 높이를 스택에 push
+            stack.Push((i, currentHeight));
         }
 
-        writer.Write(stringBuilder.ToString());
+        writer.Write(stringBuilder.ToString().TrimEnd());
     }
 }
