@@ -1,9 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using System.Data;
 using System.Linq;
-using System.Security.Principal;
 using System.Text;
 
 public class Program
@@ -25,63 +23,58 @@ public class Program
 
         List<List<NodeInfo>> nodeList = new List<List<NodeInfo>>();
 
-        int index = 0;
-        int answer = 0;
-
-        NodeInfo temp = null;
+        Queue<int> queue = new Queue<int>();
+        int[] cowCounts = new int[n + 1];
 
         for (int i = 0; i < n + 1; i++)
         {
             nodeList.Add(new List<NodeInfo>());
+            cowCounts[i] = -1;
         }
 
         for(int i = 0; i < m; i++)
         {
             int[] inputs = Array.ConvertAll(reader.ReadLine().Split(), int.Parse);
 
-            nodeList[inputs[0]].Add(new NodeInfo(inputs[1], inputs[2], false));
+            int start = inputs[0];
+            int end = inputs[1];
+            int cowCount = inputs[2];
+
+            nodeList[start].Add(new NodeInfo(end, cowCount));
+            nodeList[end].Add(new NodeInfo(start, cowCount));
         }
 
-        while (index == n)
-        {
-            if (nodeList[index].Count == 0)
-                continue;
+        queue.Enqueue(1);
+        cowCounts[1] = 0;
 
-            for (int j = 0; j < nodeList[index].Count; j++)
+        while(queue.Count > 0)
+        {
+            int currentIndex = queue.Dequeue();
+
+            foreach (var currentNode in nodeList[currentIndex])
             {
-                if (temp is null)
+                int newCowCount = cowCounts[currentIndex] + currentNode.cowCount;
+
+                if (cowCounts[currentNode.endNode] == -1 || newCowCount < cowCounts[currentNode.endNode])
                 {
-                    temp = nodeList[index][j];
-                }
-                else if (temp != null)
-                {
-                    if (temp.isVisited == false)
-                    {
-                        NodeInfo node = nodeList[index][j].cowCount < temp.cowCount ? temp : nodeList[index][j];
-                        temp = node;
-                    }
+                    cowCounts[currentNode.endNode] = newCowCount;
+                    queue.Enqueue(currentNode.endNode);
                 }
             }
-
-            temp.isVisited = true;
-            index = temp.endNode;
-            answer += temp.cowCount;
         }
 
-        writer.Write(answer);
+        writer.Write(cowCounts[n]);
     }
 
     private class NodeInfo
     {
         public int endNode = 0;
         public int cowCount = 0;
-        public bool isVisited = false;
 
-        public NodeInfo(int endNode, int cowCount, bool isVisited)
+        public NodeInfo(int endNode, int cowCount)
         {
             this.endNode = endNode;
             this.cowCount = cowCount;
-            this.isVisited = isVisited;
         }
     }
 }
