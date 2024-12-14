@@ -1,0 +1,15 @@
+C:\Users\freed\Desktop\Works\BaekJoonCodeStudy\BaekJoon\BaekJoon2668\bin\Debug\net8.0\BaekJoon2668.exe
+C:\Users\freed\Desktop\Works\BaekJoonCodeStudy\BaekJoon\BaekJoon2668\bin\Debug\net8.0\BaekJoon2668.deps.json
+C:\Users\freed\Desktop\Works\BaekJoonCodeStudy\BaekJoon\BaekJoon2668\bin\Debug\net8.0\BaekJoon2668.runtimeconfig.json
+C:\Users\freed\Desktop\Works\BaekJoonCodeStudy\BaekJoon\BaekJoon2668\bin\Debug\net8.0\BaekJoon2668.dll
+C:\Users\freed\Desktop\Works\BaekJoonCodeStudy\BaekJoon\BaekJoon2668\bin\Debug\net8.0\BaekJoon2668.pdb
+C:\Users\freed\Desktop\Works\BaekJoonCodeStudy\BaekJoon\BaekJoon2668\obj\Debug\net8.0\BaekJoon2668.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\freed\Desktop\Works\BaekJoonCodeStudy\BaekJoon\BaekJoon2668\obj\Debug\net8.0\BaekJoon2668.AssemblyInfoInputs.cache
+C:\Users\freed\Desktop\Works\BaekJoonCodeStudy\BaekJoon\BaekJoon2668\obj\Debug\net8.0\BaekJoon2668.AssemblyInfo.cs
+C:\Users\freed\Desktop\Works\BaekJoonCodeStudy\BaekJoon\BaekJoon2668\obj\Debug\net8.0\BaekJoon2668.csproj.CoreCompileInputs.cache
+C:\Users\freed\Desktop\Works\BaekJoonCodeStudy\BaekJoon\BaekJoon2668\obj\Debug\net8.0\BaekJoon2668.sourcelink.json
+C:\Users\freed\Desktop\Works\BaekJoonCodeStudy\BaekJoon\BaekJoon2668\obj\Debug\net8.0\BaekJoon2668.dll
+C:\Users\freed\Desktop\Works\BaekJoonCodeStudy\BaekJoon\BaekJoon2668\obj\Debug\net8.0\refint\BaekJoon2668.dll
+C:\Users\freed\Desktop\Works\BaekJoonCodeStudy\BaekJoon\BaekJoon2668\obj\Debug\net8.0\BaekJoon2668.pdb
+C:\Users\freed\Desktop\Works\BaekJoonCodeStudy\BaekJoon\BaekJoon2668\obj\Debug\net8.0\BaekJoon2668.genruntimeconfig.cache
+C:\Users\freed\Desktop\Works\BaekJoonCodeStudy\BaekJoon\BaekJoon2668\obj\Debug\net8.0\ref\BaekJoon2668.dll
