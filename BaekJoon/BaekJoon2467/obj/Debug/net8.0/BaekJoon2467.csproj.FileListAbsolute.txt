@@ -13,3 +13,18 @@ C:\Users\ff_de_202\Desktop\Unity Version\Study\BaekJoonCodeStudy\BaekJoon\BaekJo
 C:\Users\ff_de_202\Desktop\Unity Version\Study\BaekJoonCodeStudy\BaekJoon\BaekJoon2467\obj\Debug\net8.0\BaekJoon2467.pdb
 C:\Users\ff_de_202\Desktop\Unity Version\Study\BaekJoonCodeStudy\BaekJoon\BaekJoon2467\obj\Debug\net8.0\BaekJoon2467.genruntimeconfig.cache
 C:\Users\ff_de_202\Desktop\Unity Version\Study\BaekJoonCodeStudy\BaekJoon\BaekJoon2467\obj\Debug\net8.0\ref\BaekJoon2467.dll
+C:\Users\freed\Desktop\Works\BaekJoonCodeStudy\BaekJoon\BaekJoon2467\bin\Debug\net8.0\BaekJoon2467.exe
+C:\Users\freed\Desktop\Works\BaekJoonCodeStudy\BaekJoon\BaekJoon2467\bin\Debug\net8.0\BaekJoon2467.deps.json
+C:\Users\freed\Desktop\Works\BaekJoonCodeStudy\BaekJoon\BaekJoon2467\bin\Debug\net8.0\BaekJoon2467.runtimeconfig.json
+C:\Users\freed\Desktop\Works\BaekJoonCodeStudy\BaekJoon\BaekJoon2467\bin\Debug\net8.0\BaekJoon2467.dll
+C:\Users\freed\Desktop\Works\BaekJoonCodeStudy\BaekJoon\BaekJoon2467\bin\Debug\net8.0\BaekJoon2467.pdb
+C:\Users\freed\Desktop\Works\BaekJoonCodeStudy\BaekJoon\BaekJoon2467\obj\Debug\net8.0\BaekJoon2467.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\freed\Desktop\Works\BaekJoonCodeStudy\BaekJoon\BaekJoon2467\obj\Debug\net8.0\BaekJoon2467.AssemblyInfoInputs.cache
+C:\Users\freed\Desktop\Works\BaekJoonCodeStudy\BaekJoon\BaekJoon2467\obj\Debug\net8.0\BaekJoon2467.AssemblyInfo.cs
+C:\Users\freed\Desktop\Works\BaekJoonCodeStudy\BaekJoon\BaekJoon2467\obj\Debug\net8.0\BaekJoon2467.csproj.CoreCompileInputs.cache
+C:\Users\freed\Desktop\Works\BaekJoonCodeStudy\BaekJoon\BaekJoon2467\obj\Debug\net8.0\BaekJoon2467.sourcelink.json
+C:\Users\freed\Desktop\Works\BaekJoonCodeStudy\BaekJoon\BaekJoon2467\obj\Debug\net8.0\BaekJoon2467.dll
+C:\Users\freed\Desktop\Works\BaekJoonCodeStudy\BaekJoon\BaekJoon2467\obj\Debug\net8.0\refint\BaekJoon2467.dll
+C:\Users\freed\Desktop\Works\BaekJoonCodeStudy\BaekJoon\BaekJoon2467\obj\Debug\net8.0\BaekJoon2467.pdb
+C:\Users\freed\Desktop\Works\BaekJoonCodeStudy\BaekJoon\BaekJoon2467\obj\Debug\net8.0\BaekJoon2467.genruntimeconfig.cache
+C:\Users\freed\Desktop\Works\BaekJoonCodeStudy\BaekJoon\BaekJoon2467\obj\Debug\net8.0\ref\BaekJoon2467.dll
