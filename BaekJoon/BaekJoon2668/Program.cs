@@ -10,7 +10,7 @@ public class Program
         StringBuilder stringBuilder = new StringBuilder();
 
         int n = int.Parse(reader.ReadLine());
-        int[] numbers = new int[n]; // 첫번째 줄 숫자
+        int[] numbers = new int[n + 1]; // 첫번째 줄 숫자
 
         bool[] visited = new bool[n + 1];
         
@@ -21,19 +21,20 @@ public class Program
             numbers[i] = int.Parse(reader.ReadLine());
         }
 
-        for(int i = 1; i <= n; i++)
+        for (int i = 1; i <= n; i++)
         {
             visited[i] = true;
             DFS(i, i, numbers, visited, answerList);
             visited[i] = false;
         }
 
-        answerList.Order();
+        answerList.Sort();
 
         writer.WriteLine(answerList.Count);
-        writer.WriteLine(answerList[0]);
-        writer.WriteLine(answerList[1]);
-        writer.WriteLine(answerList[2]);
+        foreach (var num in answerList)
+        {
+            writer.WriteLine(num);
+        }
     }
 
     private static void DFS(int start, int end, int[] numbers, bool[] visited, List<int> answerList)
