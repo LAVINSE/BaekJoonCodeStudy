@@ -19,39 +19,45 @@ public class Program
 
         Dictionary<int, int[]> segmentDict = new()
         {
-            { 0, [1, 1, 1, 0, 1, 1, 1]},
-            { 1, [0, 0, 1, 0, 0, 0, 1]},
-            { 2, [0, 1, 1, 1, 1, 1, 0]},
-            { 3, [0, 1, 1, 1, 0, 1, 1]},
-            { 4, [1, 0, 1, 1, 0, 0, 1]},
-            { 5, [1, 1, 0, 1, 0, 1, 1]},
-            { 6, [1, 1, 0, 1, 1, 1, 1]},
-            { 7, [0, 1, 1, 0, 0, 0, 1]},
-            { 8, [1, 1, 1, 1, 1, 1, 1]},
-            { 9, [1, 1, 1, 1, 0, 1, 1]},
+            { 0, new int[] {1, 1, 1, 0, 1, 1, 1} },
+            { 1, new int[] {0, 0, 1, 0, 0, 0, 1} },
+            { 2, new int[] {0, 1, 1, 1, 1, 1, 0} },
+            { 3, new int[] {0, 1, 1, 1, 0, 1, 1} },
+            { 4, new int[] {1, 0, 1, 1, 0, 0, 1} },
+            { 5, new int[] {1, 1, 0, 1, 0, 1, 1} },
+            { 6, new int[] {1, 1, 0, 1, 1, 1, 1} },
+            { 7, new int[] {0, 1, 1, 0, 0, 0, 1} },
+            { 8, new int[] {1, 1, 1, 1, 1, 1, 1} },
+            { 9, new int[] {1, 1, 1, 1, 0, 1, 1} },
         };
 
-        int[] baseSegment = segmentDict[x];
 
-        for(int i = 1; i <= n; i++)
+        int[] baseSegment = x.ToString().PadLeft(k, '0').Select(c => c - '0').ToArray();
+
+        for (int i = 1; i <= n; i++)
         {
             if (i == x)
                 continue;
 
-            int[] selectedSegment = segmentDict[i];
+            int[] selectedNumbers = i.ToString().PadLeft(k, '0').Select(c => c - '0').ToArray();
             int count = 0;
-
-            for(int j = 0; j < baseSegment.Length; j++)
+            for (int j = 0; j < baseSegment.Length; j++)
             {
-                if (baseSegment[j] != selectedSegment[j])
-                {
-                    count++;
-                }
-
-                if (count > p)
+                if (j >= selectedNumbers.Length)
                     break;
-            }
 
+                int[] baseSegemntValue = segmentDict[baseSegment[j]];
+                int[] selectedSegmentValue = segmentDict[selectedNumbers[j]];
+
+                for (int y = 0; y < baseSegemntValue.Length; y++)
+                {
+                    if (baseSegemntValue[y] != selectedSegmentValue[y])
+                        count++;
+
+                    if (count > p)
+                        break;
+                }
+            }
             if (count <= p)
                 answer++;
         }
